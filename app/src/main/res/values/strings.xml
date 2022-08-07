@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyHealthNutritionDiet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signuphere">SignUpHere</string>
+    <string name="welcome">Welcome!</string>
+    <string name="angiogenesis">Angiogenesis</string>
+    <string name="regeneration">Regeneration</string>
+    <string name="microbiome">Microbiome</string>
+    <string name="immunity">Immunity</string>
+    <string name="dna">Dna</string>
+    <string name="submit">Submit</string>
+    <string name="back">back</string>
+    <string-array name="food">
+        <item> Ginger Orange Hot Chocolate </item>
+        <item> Warm Carrot Top Salad </item>
+        <item> Lemon Vinaigrette  </item>
+        <item> Roasted Mushroom </item>
+        <item> Grilled Eggplant </item>
+        <item> Oregano Soup </item>
+        <item> Chestnut Soup </item>
+        <item> Mushroom Soup </item>
+        <item> Chicken With Mint In Fish Sauce </item>
+        <item> Healthy Chocolate Mousse </item>
+    </string-array>
+
+    <string name="array_angiogenesis">
+        <item>Almonds</item>
+        <item>Apricot</item>
+        <item>Barley</item>
+        <item>Bok Choy</item>
+        <item>Cashews</item>
+        <item>Chia Seeds</item>
+        <item>Cherry</item>
+        <item>Chamomile tea</item>
+        <item>Hake</item>
+        <item>Manila Clams</item>
+        <item>Olive Oil</item>
+
+    </string>
+
+</resources>
